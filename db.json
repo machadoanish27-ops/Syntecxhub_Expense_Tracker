@@ -1,0 +1,33 @@
+{
+  "expenses": [
+    {
+      "title": "Lunch",
+      "amount": "248",
+      "category": "Food",
+      "date": "2026-09-21",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Uber",
+      "amount": 180,
+      "category": "Travel",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Electricity",
+      "amount": "7000",
+      "category": "Bills",
+      "date": "2026-09-21",
+      "id": "3"
+    },
+    {
+      "title": "najja",
+      "amount": "1500",
+      "category": "Other",
+      "date": "2026-09-21",
+      "id": "L_KjR1DmkD4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
